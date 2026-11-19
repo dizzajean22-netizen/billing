@@ -368,6 +368,7 @@ body::after{
     <ul class="sidebar-menu">
         <li><a href="<?= basename(__FILE__) ?>" class="active"><i class="fas fa-th-large"></i> <span>Dashboard</span></a></li>
         <li><a href="comparison.php"><i class="fas fa-scale-balanced"></i> <span>Algorithm vs Traditional</span></a></li>
+        <li><a href="research_evaluation.php"><i class="fas fa-flask"></i> <span>Research Evaluation</span></a></li>
         <li><a href="administrator_monitoring.php"><i class="fas fa-shield-halved"></i> <span>Monitoring</span></a></li>
         <li><a href="performance_metrics.php"><i class="fas fa-chart-line"></i> <span>Performance Metrics</span></a></li>
         <li><a href="explanations.php"><i class="fas fa-comment-dots"></i> <span>Semantic Explanations</span></a></li>
